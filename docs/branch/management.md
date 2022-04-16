@@ -147,3 +147,8 @@ Git主分支的名字，默认叫做 Master 。它是自动建立的，版本库
    ```bash
    git branch -d fixbug-0.1
    ```
+
+
+> Git 分支命名规范(完)
+>
+> https://blog.csdn.net/qq_33858250/article/details/81047883
